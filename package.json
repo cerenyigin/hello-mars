@@ -1,6 +1,6 @@
 {
   "name": "hello-mars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Say hello to Mars",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "mars"
   ],
-  "author": "Ceren",
+  "author": "Ceren Yigin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cerenyigin/hello-mars/issues"
